@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello, I'm currently a Software Engineer, I've been working with software development for more than 10 years, where during this time I've had the opportunity to work with some different languages such as Java, TypeScript, Javascript, C# and PL/SQL, and also some frameworks such as Spring, Spring Boot, React.JS, React Native, Flutter, .NE and Node.JS. 
+I'm currently a Software Engineer, I've been working with software development for more than 10 years, where during this time I've had the opportunity to work with some different languages such as Java, TypeScript, Javascript, C# and PL/SQL, and also some frameworks such as Spring, Spring Boot, React.JS, React Native, Flutter, .NE and Node.JS. 
 
 I like to solve problems and create solutions regardless of the language or framework. I've always enjoyed challenges and learning new things, most of which I find easy to learn and dedicate myself to making it happen.
