@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm currently a Software Engineer, I've been working with software development for more than 10 years, where during this time I've had the opportunity to work with some different languages such as Java, TypeScript, Javascript, C# and PL/SQL, and also some frameworks such as Spring, Spring Boot, React.JS, React Native, Flutter, .NE and Node.JS. 
 
-I like to solve problems and create solutions regardless of the language or framework. I've always enjoyed challenges and learning new things, most of which I find easy to learn and dedicate myself to making it happen.
+I'm currently a software engineer, I've been working in the development field for over 10 years and I've worked with several languages and frameworks. 
+I like to solve problems and see how any system I develop affects customers.
+
+I share projects I've done here on my GitHub, whether it's a technical test for a selection process, or even a test of a new language or framework. 
+If you'd like to get in touch, feel free to send me a message on Linkedin.
