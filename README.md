@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently a software engineer, I've been working in the development field for over 10 years and I've worked with several languages and frameworks. 
+I'm currently a software engineer, I've been working in the development field for over 10 years and I've worked with some languages and frameworks. 
 I like to solve problems and see how any system I develop affects customers.
 
 I share projects I've done here on my GitHub, whether it's a technical test for a selection process, or even a test of a new language or framework. 
